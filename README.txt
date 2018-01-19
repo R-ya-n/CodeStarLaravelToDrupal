@@ -1,7 +1,6 @@
 
 CONTENTS OF THIS FILE
 ---------------------
-*yolo
 
  * About Drupal
  * Configuration and features
